@@ -20,7 +20,7 @@ const subStrExtract = str.substr(2,20);
 
 console.log(subStrExtract);
 
-// substring() function - 
+// substring() function - used for fetching characters from given position
 const substr = "Javascript is a language used in web development";
 
 const substring = substr.substring(2,6);
