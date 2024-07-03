@@ -42,3 +42,10 @@ console.log(Array.isArray(position1));
 // split() function - to split an array into different element 
 const text = "This is a random text";
 
+console.log(text.split(' '));
+
+// concat function - to add new element in an array
+const newArr = ["Book", "Pen", "Diary", "Rubber"];
+
+console.log(newArr.concat("Pencil"));
+
