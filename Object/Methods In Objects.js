@@ -1,0 +1,3 @@
+// methods in object
+// example
+
