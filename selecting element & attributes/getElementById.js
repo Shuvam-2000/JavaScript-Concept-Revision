@@ -7,7 +7,7 @@ var elem2 = document.getElementById("show-element")
 console.log(elem)
 
 function change(){
-    elem.style.innerHTML = "none"
+    elem.style.display = "none"
     elem2.style.display = "block"
 }
 
