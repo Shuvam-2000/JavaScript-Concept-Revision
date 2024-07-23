@@ -1,0 +1,12 @@
+{
+    "name": "Shuvam Saha",
+    "age": 23,
+    "is_student": false,
+    "passport_no": null,
+    "tech_skills": ["Python", "Javascript", "HTML", "CSS", "SQL", "ReactJS"],
+    "address": {
+        "city": "Durgapur",
+        "state": "New Delhi",
+        "pin code": 713203
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Personal_info": [
+        {
+            "firstName": "Shuvam",
+            "lastName": "Saha",
+            "Age": 23,
+            "Gender": "Male",
+            "Blood Group": "B+ve",
+            "address": {
+                "city": "Durgapur",
+                "state": "West Bengal",
+                "pin code": 713203
+            },
+            "tech_skills":{
+                "prog_lang": ["Python", "Javascript", "HTML", "CSS", "SQL"],
+                "tools": ["Vs Code", "Git & Github", "Jupyter Notebook"],
+                "Libaries/Frameworks": ["React JS", "Redux", "TailWind CSS"]
+            }
+        },
+        {
+            "firstName": "Riju",
+            "lastName": "Saha",
+            "Age": 23,
+            "Gender": "Male",
+            "Blood Group": "B+ve",
+            "address": {
+                "city": "Durgapur",
+                "state": "West Bengal",
+                "pin code": 713203
+            },
+            "tech_skills":{
+                "prog_lang": ["Python", "R", "Java"],
+                "tools": ["Vs Code", "Git & Github", "Jupyter Notebook"],
+                "Libaries/Frameworks": ["Numpy", "Pandas", "Matplotlib"]
+            }
+        }
+        
+    ]
+}
